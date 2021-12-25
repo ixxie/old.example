@@ -8,18 +8,20 @@ I decided to setup my resumé as a web application, since I am applying for jobs
 
 ### goals
 
-With this project, I *do aim to:*
- 1. Create a web-based resume summerizing my skills and experience;
- 2. Demonstrate my web development skills, in particular frontend skills;
- 3. Get first experience with Typescript and the TailwindCSS Typography plugin;
- 4. Push my agility skills to the next level;
+With this project, I _do aim to:_
+
+1.  Create a web-based resume summerizing my skills and experience;
+2.  Demonstrate my web development skills, in particular frontend skills;
+3.  Get first experience with Typescript and the TailwindCSS Typography plugin;
+4.  Push my agility skills to the next level;
 
 ### antigoals
 
-With this project, I *don't aim to:*
- 1. Make a reusable personal resume template;
- 2. Overengineer, overplan or overdesign the application;
- 3. Bore myself to death nitpicking on irrelevant details;
+With this project, I _don't aim to:_
+
+1.  Make a reusable personal resume template;
+2.  Overengineer, overplan or overdesign the application;
+3.  Bore myself to death nitpicking on irrelevant details;
 
 ## Developing
 
